@@ -20,15 +20,15 @@ Shared.FrameworkNames = {
     qb = "qb-core",
 }
 
-Shared.PlayersLicense = "steam" -- # steam, license, discord, IP adress
+Shared.PlayersLicense = "discord" -- # steam, license, discord, IP adress
 Shared.Commands = {
     prefix = "craft:",
     perms = {
         ["create"] = {
-            ["steam:1100001015109d9"] = true, -- # steam or rockstar license ( its from server to server )
+            ["discord:240988897750941697"] = true, -- # steam or rockstar license ( its from server to server )
         },
         ["edit"] = {
-            ["steam:1100001015109d9"] = true, -- # steam or rockstar license ( its from server to server )
+            ["discord:240988897750941697"] = true, -- # steam or rockstar license ( its from server to server )
         },
     },
 }
